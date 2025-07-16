@@ -1,0 +1,12 @@
+{
+  "domain": "basketbal_vlaanderen",
+  "name": "Basketbal Vlaanderen",
+  "codeowners": [
+    "@TimBossuyt"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/TimBossuyt/homeassistant-basketbal-vlaanderen",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/TimBossuyt/homeassistant-basketbal-vlaanderen/issues",
+  "version": "0.1.0"
+}
